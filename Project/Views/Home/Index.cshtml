@@ -1,0 +1,51 @@
+﻿@{
+    ViewData["Title"] = "Principal";
+}
+
+<div data-role="carousel"
+     data-cls-bullet="bullet-big"
+     data-auto-start="true"
+     data-cls-controls="fg-white"
+     data-bullets-position="right"
+     data-control-next="<span class='mif-chevron-right fg-cyan'></span>"
+     data-control-prev="<span class='mif-chevron-left fg-cyan'></span>"
+>
+    <div class="slide p-2 pl-10 pr-10"  data-cover="@Url.Content("images/fondo.png")">
+        <div class="row flex-align-center h-100">
+            <div class="cell-md-4 text-center">
+                <img src="~/images/1.jpg" class="img-fluid">
+            </div>
+            <div class="cell-md-8">
+                <h1 class="text-light" style="color: white">Pumba</h1>
+                <p class="mt-4 mb-4" style="color: white">Lorem Ipsum is simply dummy text of the printing and typesetting...</p>
+                <button class="button alert" style="color: white">Show more...</button>
+            </div>
+        </div>
+    </div>
+
+    <div class="slide p-2 pl-10 pr-10" data-cover="@Url.Content("images/fondo.png")">
+        <div class="row flex-align-center h-100">
+            <div class="cell-md-8">
+                <p class="indent-letter" style="color: white">Lorem Ipsum is simply dummy text of the printing and typesetting...</p>
+            </div>
+            <div class="cell-md-4 text-center">
+                <div class="img-container drop-shadow">
+                    <img src="~/images/2.jpg">
+                </div>
+            </div>
+        </div>
+    </div>
+    
+        <div class="slide p-2 pl-10 pr-10" data-cover="@Url.Content("images/fondo.png")">
+            <div class="row flex-align-center h-100">
+                <div class="cell-md-8">
+                    <p class="indent-letter" style="color: white">Lorem Ipsum is simply dummy text of the printing and typesetting...</p>
+                </div>
+                <div class="cell-md-4 text-center">
+                    <div class="img-container drop-shadow">
+                        <img src="~/images/3.jpg">
+                    </div>
+                </div>
+            </div>
+        </div>
+</div>
