@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "/home/arminbash/Escritorio/Project/Project.csproj",
+    "projectUniqueName": "/home/arminbash/Documentos/Sistema Escolar Asp Net Core Linux/Project/Project.csproj",
     "projectName": "Project",
-    "projectPath": "/home/arminbash/Escritorio/Project/Project.csproj",
-    "outputPath": "/home/arminbash/Escritorio/Project/obj/",
+    "projectPath": "/home/arminbash/Documentos/Sistema Escolar Asp Net Core Linux/Project/Project.csproj",
+    "outputPath": "/home/arminbash/Documentos/Sistema Escolar Asp Net Core Linux/Project/obj/",
     "projectStyle": "PackageReference",
     "fallbackFolders": [
       "/usr/share/dotnet/sdk/NuGetFallbackFolder"
@@ -12,9 +12,6 @@
     "originalTargetFrameworks": [
       "netcoreapp2.2"
     ],
-    "sources": {
-      "https://api.nuget.org/v3/index.json": {}
-    },
     "frameworks": {
       "netcoreapp2.2": {
         "projectReferences": {}
@@ -49,6 +46,10 @@
           "target": "Package",
           "version": "[2.2.0, )",
           "autoReferenced": true
+        },
+        "Newtonsoft.Json": {
+          "target": "Package",
+          "version": "[12.0.3-beta1, )"
         }
       },
       "imports": [

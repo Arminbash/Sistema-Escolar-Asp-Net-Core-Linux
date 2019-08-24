@@ -2727,7 +2727,7 @@
           "build/netstandard2.0/NETStandard.Library.targets": {}
         }
       },
-      "Newtonsoft.Json/11.0.2": {
+      "Newtonsoft.Json/12.0.3-beta1": {
         "type": "package",
         "compile": {
           "lib/netstandard2.0/Newtonsoft.Json.dll": {}
@@ -4446,7 +4446,7 @@
   },
   "libraries": {
     "Metro4/4.2.48": {
-      "sha512": "KkljIVZxO89J+h578IuxlMM9PcwKXblAD66BUt5zGUcjlXw9wV3Cn0QyMNcOYcGXqaE+Ecp8Wt28Ix90mi6VlQ==",
+      "sha512": "PWXEPkqPCfl5BGiKPTYZxDen4X1BC90YP/tQFJ80j5i8plPF/Nh6KW6Txss+XBI9Dym0l6eKBc7Ta471mSzduA==",
       "type": "package",
       "path": "metro4/4.2.48",
       "files": [
@@ -7366,10 +7366,10 @@
         "netstandard.library.nuspec"
       ]
     },
-    "Newtonsoft.Json/11.0.2": {
-      "sha512": "IvJe1pj7JHEsP8B8J8DwlMEx8UInrs/x+9oVY+oCD13jpLu4JbJU2WCIsMRn5C4yW9+DgkaO8uiVE5VHKjpmdQ==",
+    "Newtonsoft.Json/12.0.3-beta1": {
+      "sha512": "lVCr/7w4zHnS+9wRDTmMPK43x2VsmHweJUh5s08Rv+O7IPLTzoA9H+miczShFaOOenwt6GFlYPVWawB0dX6HRA==",
       "type": "package",
-      "path": "newtonsoft.json/11.0.2",
+      "path": "newtonsoft.json/12.0.3-beta1",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -7392,7 +7392,7 @@
         "lib/portable-net40+sl5+win8+wp8+wpa81/Newtonsoft.Json.xml",
         "lib/portable-net45+win8+wp8+wpa81/Newtonsoft.Json.dll",
         "lib/portable-net45+win8+wp8+wpa81/Newtonsoft.Json.xml",
-        "newtonsoft.json.11.0.2.nupkg.sha512",
+        "newtonsoft.json.12.0.3-beta1.nupkg.sha512",
         "newtonsoft.json.nuspec"
       ]
     },
@@ -12101,7 +12101,8 @@
       "Metro4 >= 4.2.48",
       "Microsoft.AspNetCore.App >= 2.2.0",
       "Microsoft.AspNetCore.Razor.Design >= 2.2.0",
-      "Microsoft.NETCore.App >= 2.2.0"
+      "Microsoft.NETCore.App >= 2.2.0",
+      "Newtonsoft.Json >= 12.0.3-beta1"
     ]
   },
   "packageFolders": {
@@ -12111,11 +12112,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/arminbash/Escritorio/Project/Project.csproj",
+      "projectUniqueName": "/home/arminbash/Documentos/Sistema Escolar Asp Net Core Linux/Project/Project.csproj",
       "projectName": "Project",
-      "projectPath": "/home/arminbash/Escritorio/Project/Project.csproj",
+      "projectPath": "/home/arminbash/Documentos/Sistema Escolar Asp Net Core Linux/Project/Project.csproj",
       "packagesPath": "/home/arminbash/.nuget/packages/",
-      "outputPath": "/home/arminbash/Escritorio/Project/obj/",
+      "outputPath": "/home/arminbash/Documentos/Sistema Escolar Asp Net Core Linux/Project/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/share/dotnet/sdk/NuGetFallbackFolder"
@@ -12163,6 +12164,10 @@
             "target": "Package",
             "version": "[2.2.0, )",
             "autoReferenced": true
+          },
+          "Newtonsoft.Json": {
+            "target": "Package",
+            "version": "[12.0.3-beta1, )"
           }
         },
         "imports": [

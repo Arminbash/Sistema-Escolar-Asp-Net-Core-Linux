@@ -1,8 +1,20 @@
-@model object
+@using Microsoft.AspNetCore.Razor.TagHelpers
+@using Project.Dto
+@model Project.Dto.UserDto
 
 @{
-    ViewBag.Title = "title";
+    ViewBag.Title = "Login";
     Layout = "_Layout";
 }
+@using (Html.BeginForm("Index", "User", "", FormMethod.Post, true, Model))
+{
+    @Html.ValidationSummary(true)
+  
+    <input type="text" data-role="input" id="UserName" name="UserName"
+           data-prepend="<span class='mif-user'></span>">
+    @Html.ValidationMessageFor(model => model.UserName, "", new { @class = "text-bold fg-red" })
 
-<h2>title</h2>
+    <input type="password" data-role="input" id="Password" name="Password">
+    @Html.ValidationMessageFor(model => model.Password, "", new { @class = "text-bold fg-red" })
+    <input type="submit" class="button primary" value="Enviar"/>
+}

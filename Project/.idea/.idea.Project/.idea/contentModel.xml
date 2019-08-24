@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$USER_HOME$/.Rider2018.3/system/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/.Rider2018.3/system/resharper-host/local/Transient/ReSharperHost/v183/SolutionCaches/_Project.935031839.00" t="ExcludeRecursive" />
+    <e p="$PROJECT_DIR$" t="IncludeRecursive">
+      <e p="Controllers" t="Include">
+        <e p="HomeController.cs" t="Include" />
+        <e p="UserController.cs" t="Include" />
+      </e>
+      <e p="Data" t="Include">
+        <e p="Models" t="Include">
+          <e p="User.cs" t="Include" />
+        </e>
+        <e p="dbContextSchool.cs" t="Include" />
+      </e>
+      <e p="Dto" t="Include">
+        <e p="UserDto.cs" t="Include" />
+      </e>
+      <e p="Migrations" t="Include">
+        <e p="20190823200334_InitialCreate.Designer.cs" t="Include" />
+        <e p="20190823200334_InitialCreate.cs" t="Include" />
+        <e p="dbContextSchoolModelSnapshot.cs" t="Include" />
+      </e>
+      <e p="Models" t="Include">
+        <e p="ErrorViewModel.cs" t="Include" />
+      </e>
+      <e p="Program.cs" t="Include" />
+      <e p="Project.csproj" t="IncludeRecursive" />
+      <e p="Properties" t="Include">
+        <e p="launchSettings.json" t="Include" />
+      </e>
+      <e p="Services" t="Include" />
+      <e p="Startup.cs" t="Include" />
+      <e p="Views" t="Include">
+        <e p="Home" t="Include">
+          <e p="Index.cshtml" t="Include" />
+          <e p="Privacy.cshtml" t="Include" />
+        </e>
+        <e p="Shared" t="Include">
+          <e p="Error.cshtml" t="Include" />
+          <e p="_CookieConsentPartial.cshtml" t="Include" />
+          <e p="_Layout.cshtml" t="Include" />
+          <e p="_Layout2.cshtml" t="Include" />
+          <e p="_ValidationScriptsPartial.cshtml" t="Include" />
+        </e>
+        <e p="User" t="Include">
+          <e p="Index.cshtml" t="Include" />
+        </e>
+        <e p="_ViewImports.cshtml" t="Include" />
+        <e p="_ViewStart.cshtml" t="Include" />
+      </e>
+      <e p="appsettings.Development.json" t="Include" />
+      <e p="appsettings.json" t="Include" />
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="obj" t="ExcludeRecursive">
+        <e p="Debug" t="Include">
+          <e p="netcoreapp2.2" t="Include">
+            <e p="Project.AssemblyInfo.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="wwwroot" t="Include">
+        <e p="css" t="Include">
+          <e p="site.css" t="Include" />
+        </e>
+        <e p="favicon.ico" t="Include" />
+        <e p="images" t="Include">
+          <e p="1.jpg" t="Include" />
+          <e p="2.jpg" t="Include" />
+          <e p="3.jpg" t="Include" />
+          <e p="fondo.png" t="Include" />
+        </e>
+        <e p="js" t="Include">
+          <e p="site.js" t="Include" />
+        </e>
+        <e p="lib" t="Include">
+          <e p="MDBootstrap" t="Include">
+            <e p="License.pdf" t="Include" />
+            <e p="README.txt" t="Include" />
+            <e p="Useful_Resources.pdf" t="Include" />
+            <e p="css" t="Include">
+              <e p="addons" t="Include">
+                <e p="datatables-select.css" t="Include" />
+                <e p="datatables-select.min.css" t="Include" />
+                <e p="datatables.css" t="Include" />
+                <e p="datatables.min.css" t="Include" />
+                <e p="directives.css" t="Include" />
+                <e p="directives.min.css" t="Include" />
+                <e p="flag.css" t="Include" />
+                <e p="flag.min.css" t="Include" />
+                <e p="rating.css" t="Include" />
+                <e p="rating.min.css" t="Include" />
+                <e p="zmd.hierarchical-display.css" t="Include" />
+                <e p="zmd.hierarchical-display.min.css" t="Include" />
+              </e>
+              <e p="bootstrap.css" t="Include" />
+              <e p="bootstrap.min.css" t="Include" />
+              <e p="mdb.css" t="Include" />
+              <e p="mdb.lite.css" t="Include" />
+              <e p="mdb.lite.min.css" t="Include" />
+              <e p="mdb.min.css" t="Include" />
+              <e p="modules" t="Include">
+                <e p="animations-extended.css" t="Include" />
+                <e p="animations-extended.min.css" t="Include" />
+              </e>
+              <e p="style.css" t="Include" />
+              <e p="style.min.css" t="Include" />
+            </e>
+            <e p="font" t="Include">
+              <e p="roboto" t="Include">
+                <e p="Roboto-Bold.eot" t="Include" />
+                <e p="Roboto-Bold.ttf" t="Include" />
+                <e p="Roboto-Bold.woff" t="Include" />
+                <e p="Roboto-Bold.woff2" t="Include" />
+                <e p="Roboto-Light.eot" t="Include" />
+                <e p="Roboto-Light.ttf" t="Include" />
+                <e p="Roboto-Light.woff" t="Include" />
+                <e p="Roboto-Light.woff2" t="Include" />
+                <e p="Roboto-Medium.eot" t="Include" />
+                <e p="Roboto-Medium.ttf" t="Include" />
+                <e p="Roboto-Medium.woff" t="Include" />
+                <e p="Roboto-Medium.woff2" t="Include" />
+                <e p="Roboto-Regular.eot" t="Include" />
+                <e p="Roboto-Regular.ttf" t="Include" />
+                <e p="Roboto-Regular.woff" t="Include" />
+                <e p="Roboto-Regular.woff2" t="Include" />
+                <e p="Roboto-Thin.eot" t="Include" />
+                <e p="Roboto-Thin.ttf" t="Include" />
+                <e p="Roboto-Thin.woff" t="Include" />
+                <e p="Roboto-Thin.woff2" t="Include" />
+              </e>
+            </e>
+            <e p="img" t="Include">
+              <e p="flags.png" t="Include" />
+              <e p="lightbox" t="Include">
+                <e p="default-skin.png" t="Include" />
+                <e p="default-skin.svg" t="Include" />
+                <e p="preloader.gif" t="Include" />
+              </e>
+              <e p="overlays" t="Include">
+                <e p="01.png" t="Include" />
+                <e p="02.png" t="Include" />
+                <e p="03.png" t="Include" />
+                <e p="04.png" t="Include" />
+                <e p="05.png" t="Include" />
+                <e p="06.png" t="Include" />
+                <e p="07.png" t="Include" />
+                <e p="08.png" t="Include" />
+                <e p="09.png" t="Include" />
+              </e>
+              <e p="sample.jpg" t="Include" />
+              <e p="svg" t="Include">
+                <e p="arrow_left.svg" t="Include" />
+                <e p="arrow_right.svg" t="Include" />
+                <e p="flags.png" t="Include" />
+              </e>
+            </e>
+            <e p="index.html" t="Include" />
+            <e p="js" t="Include">
+              <e p="addons" t="Include">
+                <e p="datatables-select.js" t="Include" />
+                <e p="datatables-select.min.js" t="Include" />
+                <e p="datatables.js" t="Include" />
+                <e p="datatables.min.js" t="Include" />
+                <e p="imagesloaded.pkgd.min.js" t="Include" />
+                <e p="jquery.zmd.hierarchical-display.js" t="Include" />
+                <e p="jquery.zmd.hierarchical-display.min.js" t="Include" />
+                <e p="masonry.pkgd.min.js" t="Include" />
+                <e p="progressBar.js" t="Include" />
+                <e p="progressBar.min.js" t="Include" />
+                <e p="rating.js" t="Include" />
+                <e p="rating.min.js" t="Include" />
+              </e>
+              <e p="bootstrap.js" t="Include" />
+              <e p="bootstrap.min.js" t="Include" />
+              <e p="jquery-3.4.1.min.js" t="Include" />
+              <e p="mdb.js" t="Include" />
+              <e p="mdb.min.js" t="Include" />
+              <e p="modules" t="Include">
+                <e p="bs-custom-file-input.js" t="Include" />
+                <e p="chart.js" t="Include" />
+                <e p="enhanced-modals.js" t="Include" />
+                <e p="forms-free.js" t="Include" />
+                <e p="jquery.easing.js" t="Include" />
+                <e p="scrolling-navbar.js" t="Include" />
+                <e p="treeview.js" t="Include" />
+                <e p="velocity.js" t="Include" />
+                <e p="velocity.min.js" t="Include" />
+                <e p="waves.js" t="Include" />
+                <e p="wow.js" t="Include" />
+              </e>
+              <e p="popper.min.js" t="Include" />
+            </e>
+            <e p="scss" t="Include">
+              <e p="_custom-styles.scss" t="Include" />
+              <e p="_custom-variables.scss" t="Include" />
+              <e p="addons" t="Include">
+                <e p="_datatables-select.scss" t="Include" />
+                <e p="_datatables.scss" t="Include" />
+                <e p="_directives.scss" t="Include" />
+                <e p="_flags.scss" t="Include" />
+                <e p="_hierarchical-display.scss" t="Include" />
+                <e p="_rating.scss" t="Include" />
+              </e>
+              <e p="core" t="Include">
+                <e p="_colors.scss" t="Include" />
+                <e p="_global.scss" t="Include" />
+                <e p="_helpers.scss" t="Include" />
+                <e p="_masks.scss" t="Include" />
+                <e p="_mixins.scss" t="Include" />
+                <e p="_typography.scss" t="Include" />
+                <e p="_variables.scss" t="Include" />
+                <e p="_waves.scss" t="Include" />
+                <e p="bootstrap" t="Include">
+                  <e p="_functions.scss" t="Include" />
+                  <e p="_rfs.scss" t="Include" />
+                  <e p="_variables.scss" t="Include" />
+                </e>
+              </e>
+              <e p="free" t="Include">
+                <e p="_animations-basic.scss" t="Include" />
+                <e p="_badges.scss" t="Include" />
+                <e p="_buttons.scss" t="Include" />
+                <e p="_cards.scss" t="Include" />
+                <e p="_carousels.scss" t="Include" />
+                <e p="_depreciated.scss" t="Include" />
+                <e p="_dropdowns.scss" t="Include" />
+                <e p="_footers.scss" t="Include" />
+                <e p="_forms.scss" t="Include" />
+                <e p="_input-group.scss" t="Include" />
+                <e p="_list-group.scss" t="Include" />
+                <e p="_loader.scss" t="Include" />
+                <e p="_modals.scss" t="Include" />
+                <e p="_msc.scss" t="Include" />
+                <e p="_navbars.scss" t="Include" />
+                <e p="_pagination.scss" t="Include" />
+                <e p="_steppers.scss" t="Include" />
+                <e p="_switch.scss" t="Include" />
+                <e p="_tables.scss" t="Include" />
+                <e p="_treeview.scss" t="Include" />
+                <e p="modules" t="Include">
+                  <e p="animations-extended" t="Include">
+                    <e p="_module.scss" t="Include" />
+                    <e p="animations-extended.scss" t="Include" />
+                  </e>
+                </e>
+              </e>
+              <e p="mdb.lite.scss" t="Include" />
+              <e p="mdb.scss" t="Include" />
+            </e>
+          </e>
+          <e p="bootstrap" t="Include">
+            <e p="LICENSE" t="Include" />
+            <e p="dist" t="Include">
+              <e p="css" t="Include">
+                <e p="bootstrap-grid.css" t="Include" />
+                <e p="bootstrap-grid.css.map" t="Include" />
+                <e p="bootstrap-grid.min.css" t="Include" />
+                <e p="bootstrap-grid.min.css.map" t="Include" />
+                <e p="bootstrap-reboot.css" t="Include" />
+                <e p="bootstrap-reboot.css.map" t="Include" />
+                <e p="bootstrap-reboot.min.css" t="Include" />
+                <e p="bootstrap-reboot.min.css.map" t="Include" />
+                <e p="bootstrap.css" t="Include" />
+                <e p="bootstrap.css.map" t="Include" />
+                <e p="bootstrap.min.css" t="Include" />
+                <e p="bootstrap.min.css.map" t="Include" />
+              </e>
+              <e p="js" t="Include">
+                <e p="bootstrap.bundle.js" t="Include" />
+                <e p="bootstrap.bundle.js.map" t="Include" />
+                <e p="bootstrap.bundle.min.js" t="Include" />
+                <e p="bootstrap.bundle.min.js.map" t="Include" />
+                <e p="bootstrap.js" t="Include" />
+                <e p="bootstrap.js.map" t="Include" />
+                <e p="bootstrap.min.js" t="Include" />
+                <e p="bootstrap.min.js.map" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="jquery" t="Include">
+            <e p="LICENSE.txt" t="Include" />
+            <e p="dist" t="Include">
+              <e p="jquery.js" t="Include" />
+              <e p="jquery.min.js" t="Include" />
+              <e p="jquery.min.map" t="Include" />
+            </e>
+          </e>
+          <e p="jquery-validation" t="Include">
+            <e p="LICENSE.md" t="Include" />
+            <e p="dist" t="Include">
+              <e p="additional-methods.js" t="Include" />
+              <e p="additional-methods.min.js" t="Include" />
+              <e p="jquery.validate.js" t="Include" />
+              <e p="jquery.validate.min.js" t="Include" />
+            </e>
+          </e>
+          <e p="jquery-validation-unobtrusive" t="Include">
+            <e p="LICENSE.txt" t="Include" />
+            <e p="jquery.validate.unobtrusive.js" t="Include" />
+            <e p="jquery.validate.unobtrusive.min.js" t="Include" />
+          </e>
+        </e>
+      </e>
+    </e>
+  </component>
+</project>

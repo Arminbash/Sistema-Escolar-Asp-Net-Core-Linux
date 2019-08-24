@@ -9,7 +9,7 @@ namespace Project.Dto
         [Required(ErrorMessage = "Debe ingresar un usuario")]
         [MaxLength(100)]
         public  string UserName { get; set; }
-        [Required(ErrorMessage = "Debe ingresar una contrasena")]
+        [Required(ErrorMessage = "Debe ingresar una contraseña")]
         [MaxLength(100)]
         public  string Password { get; set; }
         //public byte[]   Salt { get; set; }
